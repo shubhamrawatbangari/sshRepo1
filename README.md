@@ -1,1 +1,1 @@
-This is my first second repo created using SSH
+This is my first repo created using SSH
